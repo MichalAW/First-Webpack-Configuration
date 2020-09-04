@@ -22,7 +22,7 @@
     },
     "homepage": "https://github.com/MichalAW/20.3.First-Webpack-Configuration#readme",
     "devDependencies": {
-        "node-sass": "^4.11.0",
+        "node-sass": "^4.13.1",
         "webpack-cli": "^3.3.2"
     },
     "dependencies": {
